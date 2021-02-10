@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1611672691 source:c:\fontes\projetos\codeblocks\projetoalunos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"funcoesmatematicas.h"
+
+1611058207 c:\fontes\projetos\codeblocks\projetoalunos\funcoesmatematicas.h
+
+1611073361 source:c:\fontes\projetos\codeblocks\projetoalunos\funcoesmatematicas.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"funcoesmatematicas.h"
+
+1611673240 source:c:\users\wolfg\onedrive\documentos\ead if 2-2020\pc1\projetoalunos\funcoesmatematicas.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"funcoesmatematicas.h"
+
+1611058207 c:\users\wolfg\onedrive\documentos\ead if 2-2020\pc1\projetoalunos\funcoesmatematicas.h
+
+1612971466 source:c:\users\wolfg\onedrive\documentos\ead if 2-2020\pc1\projetoalunos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"funcoesmatematicas.h"
+
