@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1615886262 source:c:\users\wolfg\onedrive\documentos\ead if 2-2020\pc1\projetoacademico\cadastros.c
+	"cadastros.h"
+
+1615883586 c:\users\wolfg\onedrive\documentos\ead if 2-2020\pc1\projetoacademico\cadastros.h
+	<stdio.h>
+	<stdlib.h>
+	"funcoesmatematicas.h"
+
+1615835908 c:\users\wolfg\onedrive\documentos\ead if 2-2020\pc1\projetoacademico\funcoesmatematicas.h
+
+1615835908 source:c:\users\wolfg\onedrive\documentos\ead if 2-2020\pc1\projetoacademico\funcoesmatematicas.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"funcoesmatematicas.h"
+
+1615886241 source:c:\users\wolfg\onedrive\documentos\ead if 2-2020\pc1\projetoacademico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"allMenus.h"
+
+1615836807 c:\users\wolfg\onedrive\documentos\ead if 2-2020\pc1\projetoacademico\allmenus.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cadastros.h"
+
+1615883586 source:c:\users\wolfg\onedrive\documentos\ead if 2-2020\pc1\projetoacademico\allmenus.c
+	"allMenus.h"
+
